@@ -66,6 +66,7 @@ If the user enters an invalid integer for the number of folders, the program wil
 If folder creation fails (e.g., due to permission or path issues), the program will also display an error message.
 Window Attributes:
 The window size is non-adjustable to maintain a tidy interface.
+
 **Batch Create Folders 2**
 User Interface:
 Upon startup, the program displays a window titled "Batch Create Folders".
@@ -111,6 +112,7 @@ The window size is non-adjustable to maintain a tidy interface.
 フォルダーの作成が失敗した場合（例えば、権限問題やパス問題による）、プログラムもエラーメッセージを表示します。
 ウィンドウ属性:
 ウィンドウのサイズは調整不可で、インターフェースの整頓を維持します。
+
 **一括フォルダー作成2**
 ユーザーインターフェース:
 起動後、「一括フォルダー作成」というタイトルのウィンドウが表示されます。
